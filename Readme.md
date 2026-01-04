@@ -1,8 +1,16 @@
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Bem-Vindo!)](https://git.io/typing-svg)
+</div>
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ozdmo1eXZ0dGlkcTRyc2JsZ2dtbzNoNGwweW8xZnhtbWpiMWlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qiywDYLLAk3jpDBaE/giphy.gif" width="400px" alt="Herói mexendo no computador">
 </p>
 
+
 # HEITOR ARAÚJO SIQUEIRA
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-Heitor_Araújo_Siqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-araújo-siqueira-752175325)
 [![Email](https://img.shields.io/badge/Email-araujoheitor381%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujoheitor381@gmail.com)

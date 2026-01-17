@@ -18,7 +18,7 @@
 
 ## 👋 Olá!
 
-Sou Heitor Araújo Siqueira, estudante do CEFET em Informática, com interesse em adquirir experiência profissional e evoluir como desenvolvedor. Tenho preferência pelo Front-end, mas também atuo com Back-end e hardware, me proporcionando uma visão completa dos sistemas. Ao longo da minha trajetória, desenvolvi habilidades que ampliaram meus conhecimentos no campo da tecnologia.
+Sou Heitor Araújo Siqueira, técnico em Informática pelo CEFET-MG, com interesse em adquirir experiência profissional e evoluir como desenvolvedor. Tenho preferência pelo Front-end, mas também atuo com Back-end e hardware, me proporcionando uma visão completa dos sistemas. Ao longo da minha trajetória, desenvolvi habilidades que ampliaram meus conhecimentos no campo da tecnologia.
 
 ## 🚀 Habilidades Técnicas
 
